@@ -9,6 +9,8 @@ Contains the implementation of adaptive control strategies for the e-puck2 robot
 - Generation of a localised heatmap environment visualisation using IR sensor readings and an LuT.
 - Use of built-in LED lights, green and red, to indicate whether an object is in vicinity for action.
 
+The aim of the project extension was to implement visuals to attract students at a University open day.
+
 ![Screenshot 2024-07-24 231043](https://github.com/user-attachments/assets/5473ec2d-2c71-4545-8b6a-07bb4195c646)
 
 
